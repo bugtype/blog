@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Tech Blog"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Bugtype"
 description              : "An amazing website."
 url                      : "https://bugtype.github.io"
 baseurl                  : "/blog"
